@@ -1,4 +1,4 @@
-# Nessus-Lab
+# Nessus Lab
 In this lab, the goal is to gain hands-on experience with two critical steps in the Vulnerability Management Lifecycle: Vulnerability Scanning and Vulnerability Remediation. These skills are essential for any role in cybersecurity, particularly those focusing on vulnerability management.
 
 ### Skills Learned
